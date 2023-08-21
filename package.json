@@ -37,7 +37,7 @@
     "node": ">= 10.x.x"
   },
   "dependencies": {
-    "bullmq": "^3.5.1"
+    "bullmq": "^4.8.0"
   },
   "devDependencies": {
     "@types/jest": "^29.2.4",
